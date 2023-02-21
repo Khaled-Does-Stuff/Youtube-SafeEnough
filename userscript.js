@@ -6,6 +6,7 @@
 // @author       khaled-0
 // @match        https://www.youtube.com/*
 // @grant        none
+// @license      GPL-3.0
 // ==/UserScript==
 
 (function() {
